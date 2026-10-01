@@ -1,3 +1,5 @@
+#Nicolas Bahena Ostermaier
+#Apunte2
 #En Python la estructura SEGUN(switch)
 #-----------NO EXISTE---------------
 #Se emula con los if-elif-else
