@@ -1,3 +1,5 @@
+//Nicolas Bahena Ostermaier
+//Apunte3
 /* Un almacen de pedidos por correo vende cinco productos, 
 los precios son los siguientes:
 -producto 1: $2.98
