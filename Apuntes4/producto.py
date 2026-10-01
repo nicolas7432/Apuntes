@@ -1,4 +1,17 @@
 #Nicolas Bahena Ostermaier
+#Apunte4
+"""Un almacen de pedidos por correo vende cinco productos, 
+los precios son los siguientes:
+-producto 1: $2.98
+-producto 2: $4.50
+-producto 3: $9.98
+-producto 4: $4.49
+-producto 5: $6.87
+
+Escriba un programa que solicite el numero del producto y la cantidad vendida.
+El programa debe determinar el precio de venta de cada producto, calcular y 
+mostrar el valor total del producto vendido """
+
 
 numPro = int(input("Ingrese el numero del producto (1-5): "))
 canVen = int(input("Ingrese la cantidad vendida: "))
