@@ -1,3 +1,4 @@
+#Nicolas Bahena Ostermaier
 #Apunte. Aleatorios en Python
 import random
 
